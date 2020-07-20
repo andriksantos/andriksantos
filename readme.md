@@ -2,6 +2,8 @@
 ---
 ##  Follow me on:
 
+<p>
+
 <a href="https://www.facebook.com/andrik.rsm">
     <img src="https://img.shields.io/badge/Facebook-andrik.rsm-blue" alt="AndrikSantos">
 </a>
@@ -18,6 +20,7 @@
 
 <img src="https://img.shields.io/twitter/follow/andrik_rsm?style=social">
 
+</p>
 ---
 
 ## Skills
