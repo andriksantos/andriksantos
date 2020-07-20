@@ -1,5 +1,5 @@
-- _Hi there 👋 I'm a computer scientist with certain skills such as the Graphic Design, Computer Security, Application Programming and Web Development._ [WebSite](https://andriksantos.github.io/)
----
+- _Hi there 👋 I'm a computer scientist with certain skills such as the Graphic Design, Computer Security, Application Programming and Web Development._ 👉 [andriksantos.github.io](https://andriksantos.github.io/)  👈
+
 ##  Follow me on:
 
 <p>
@@ -21,10 +21,8 @@
 <img src="https://img.shields.io/twitter/follow/andrik_rsm?style=social">
 
 </p>
----
 
 ## Skills
-
 
 <p>
 
