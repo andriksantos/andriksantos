@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://andriksantos.github.io">
-    <img src="https://img.shields.io/badge/WebSite-andriksantos.github.io-blue" alt="AndrikSantos">
+    <img src="https://img.shields.io/badge/WebSite-andriksantos.github.io-lightgray" alt="AndrikSantos">
 </a>
 
 <img src="https://img.shields.io/github/followers/andriksantos?style=social">
@@ -26,14 +26,14 @@
 ## Programming language
 <p>
 
-<img src="https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue">
-<img src="https://img.shields.io/badge/C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue">
-<img src="https://img.shields.io/badge/C-★★★★★-blue">
-<img src="https://img.shields.io/badge/Javascript-★★★★★-blue">
-<img src="https://img.shields.io/badge/PHP-★★★★★-blue">
-<img src="https://img.shields.io/badge/SQL-★★★★★-blue">
-<img src="https://img.shields.io/badge/Visual%20Basic-★★★★★-blue">
-<img src="https://img.shields.io/badge/Ruby-★★★★★-blue">
+<img src="https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-critical">
+<img src="https://img.shields.io/badge/C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-critical">
+<img src="https://img.shields.io/badge/C-★★★★★-critical">
+<img src="https://img.shields.io/badge/Javascript-★★★★★-critical">
+<img src="https://img.shields.io/badge/PHP-★★★★★-critical">
+<img src="https://img.shields.io/badge/SQL-★★★★★-critical">
+<img src="https://img.shields.io/badge/Visual%20Basic-★★★★★-critical">
+<img src="https://img.shields.io/badge/Ruby-★★★★★-critical">
 
 </p>
 
