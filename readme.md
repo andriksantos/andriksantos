@@ -1,7 +1,4 @@
-- _Hi there 👋 I'm a computer scientist with certain skills such as the Graphic Design, Computer Security, Application Programming and Web Development._ 👉 [andriksantos.github.io](https://andriksantos.github.io/)  👈
-
 ##  Follow me on:
-
 <p>
 
 <a href="https://www.facebook.com/andrik.rsm">
@@ -16,14 +13,31 @@
     <img src="https://img.shields.io/badge/Linkedin-andriksantos-blue" alt="AndrikSantos">
 </a>
 
+<a href="https://andriksantos.github.io">
+    <img src="https://img.shields.io/badge/WebSite-andriksantos.github.io-blue" alt="AndrikSantos">
+</a>
+
 <img src="https://img.shields.io/github/followers/andriksantos?style=social">
 
 <img src="https://img.shields.io/twitter/follow/andrik_rsm?style=social">
 
 </p>
 
-## Skills
+## Programming language
+<p>
 
+<img src="https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue">
+<img src="https://img.shields.io/badge/C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue">
+<img src="https://img.shields.io/badge/C-★★★★★-blue">
+<img src="https://img.shields.io/badge/Javascript-★★★★★-blue">
+<img src="https://img.shields.io/badge/PHP-★★★★★-blue">
+<img src="https://img.shields.io/badge/SQL-★★★★★-blue">
+<img src="https://img.shields.io/badge/Visual%20Basic-★★★★★-blue">
+<img src="https://img.shields.io/badge/Ruby-★★★★★-blue">
+
+</p>
+
+## Skills
 <p>
 
 <img src="https://img.shields.io/badge/Support%20IT-★★★★★-brightgreen">
@@ -42,20 +56,6 @@
 <img src="https://img.shields.io/badge/Digital%20Skills-★★★★★-brightgreen">
 <img src="https://img.shields.io/badge/Web%20Developer-★★★★★-brightgreen">
 <img src="https://img.shields.io/badge/Web%20Manager-★★★★★-brightgreen">
-
-</p>
-
-## Programming language
-<p>
-
-<img src="https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue">
-<img src="https://img.shields.io/badge/C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue">
-<img src="https://img.shields.io/badge/C-★★★★★-blue">
-<img src="https://img.shields.io/badge/Javascript-★★★★★-blue">
-<img src="https://img.shields.io/badge/PHP-★★★★★-blue">
-<img src="https://img.shields.io/badge/SQL-★★★★★-blue">
-<img src="https://img.shields.io/badge/Visual%20Basic-★★★★★-blue">
-<img src="https://img.shields.io/badge/Ruby-★★★★★-blue">
 
 </p>
 
