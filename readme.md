@@ -1,28 +1,3 @@
-##  Follow me on:
-<p>
-
-<a href="https://www.facebook.com/andrik.rsm">
-    <img src="https://img.shields.io/badge/Facebook-andrik.rsm-blue" alt="AndrikSantos">
-</a>
-
-<a href="https://www.instagram.com/andriksantos12">
-    <img src="https://img.shields.io/badge/Instagram-andriksantos12-ff69b4" alt="AndrikSantos">
-</a>
-
-<a href="https://www.linkedin.com/in/andriksantos">
-    <img src="https://img.shields.io/badge/Linkedin-andriksantos-blue" alt="AndrikSantos">
-</a>
-
-<a href="https://andriksantos.github.io">
-    <img src="https://img.shields.io/badge/WebSite-andriksantos.github.io-lightgray" alt="AndrikSantos">
-</a>
-
-<img src="https://img.shields.io/github/followers/andriksantos?style=social">
-
-<img src="https://img.shields.io/twitter/follow/andrik_rsm?style=social">
-
-</p>
-
 ## Programming language
 <p>
 
