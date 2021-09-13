@@ -16,7 +16,7 @@ I graduated in Computer Science, I specialized in:
 * Application development
 * Among other things.
 
-I did the university professional internship at Gildan Honduras for more details in [Gildan Practice]([g](https://andriksantos.github.io/GildanPractice/))
+I did the university professional internship at Gildan Honduras for more details in [Gildan Practice](https://andriksantos.github.io/GildanPractice/)
 
 I love art and design so much that I specialized in ___Digital Marketing___ at _The Open University in Milton Keynes_, England.
 
