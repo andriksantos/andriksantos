@@ -1,6 +1,6 @@
 <div align="center">
 	<img src="assets/img/logo.png" width="300px" alt="Andrik Santos">
-    <p>Hello, I'm Andrik Santos I'm 26 years old. I'm from Honduras, I live somewhere in San Pedro Sula.</p>
+    <p>Hello, I'm <a href="andriksantos.github.io">Andrik Santos</a> I'm 26 years old. I'm from Honduras, I live somewhere in San Pedro Sula.</p>
 
 </div>
 
