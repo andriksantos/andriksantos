@@ -34,7 +34,7 @@ _Follow me on:_
 </a>
 
 <a href="https://www.instagram.com/andriksantos1">
-    <img src="https://img.shields.io/badge/Instagram-andriksantos12-ff69b4" alt="AndrikSantos">
+    <img src="https://img.shields.io/badge/Instagram-andriksantos1-ff69b4" alt="AndrikSantos">
 </a>
 
 <a href="https://www.linkedin.com/in/andriksantos">
