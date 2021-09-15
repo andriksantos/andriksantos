@@ -5,7 +5,7 @@
 </div>
 
 
-I graduated in Computer Science, I specialized in:
+I obtained a ***Bachelor's Degree in Administrative Informatics*** in October _2019_, I specialized in:
 
 * SAP
 * Networks
@@ -16,9 +16,11 @@ I graduated in Computer Science, I specialized in:
 * Application development
 * Among other things.
 
-I did the university professional internship at Gildan Honduras for more details in [Gildan Practice](https://andriksantos.github.io/GildanPractice/)
+I did the university professional internship at Gildan Honduras for more details visit the page [Gildan Practice](https://andriksantos.github.io/GildanPractice/)
 
 I love art and design so much that I specialized in ___Digital Marketing___ at _The Open University in Milton Keynes_, England.
+
+I consider myself a person with great attention to detail, motivated and self-critical. In constant training, team worker and eager to continue enjoying what I do
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriksantos&layout=compact)](https://github.com/andriksantos/github-readme-stats)
 
