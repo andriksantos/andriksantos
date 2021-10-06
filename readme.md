@@ -24,6 +24,9 @@ I consider myself a person with great attention to detail, motivated and self-cr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriksantos&layout=compact)](https://github.com/andriksantos/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriksantos&show_icons=true&theme=radical)
+
+
 <div align="center">
 
 _Follow me on:_
