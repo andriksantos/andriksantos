@@ -4,7 +4,6 @@
 
 </div>
 
-
 I obtained a ***Bachelor's Degree in Administrative Informatics*** in October _2019_, I specialized in:
 
 * SAP
@@ -22,10 +21,17 @@ I love art and design so much that I specialized in ___Digital Marketing___ at _
 
 I consider myself a person with great attention to detail, motivated and self-critical. In constant training, team worker and eager to continue enjoying what I do
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriksantos&layout=compact)](https://github.com/andriksantos/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriksantos&show_icons=true&theme=radical)
+<div align="center">
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriksantos&layout=compact" alt="AndrikSantos">
+</a>
 
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=andriksantos&show_icons=true&theme=radical" alt="AndrikSantos">
+</a>
+
+</div>
 
 <div align="center">
 
