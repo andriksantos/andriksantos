@@ -1,30 +1,16 @@
 <div align="center">
 	<img src="assets/img/logo.png" width="300px" alt="Andrik Santos">
-    <p>Hello, I'm <a href="andriksantos.github.io">Andrik Santos</a> I'm 26 years old. I'm from Honduras, I live somewhere in San Pedro Sula.</p>
+    <p>Hello, I'm <a href="[andriksantos.github.io](https://andriksantos.github.io/)">Andrik Santos</a> I'm 26 years old.</p>
 
 </div>
 
-I obtained a ***Bachelor's Degree in Administrative Informatics*** in October _2019_, I specialized in:
+I'm a computer engineer with more than five years of experience in the software industry. I am also an entrepreneur with experience in marketing, business development, merchandising, project management and startups.
 
-* SAP
-* Networks
-* IT Support
-* Web development
-* Computer security
-* Systems architecture
-* Application development
-* Among other things.
-
-I did the university professional internship at Gildan Honduras for more details visit the page [Gildan Practice](https://andriksantos.github.io/GildanPractice/)
-
-I love art and design so much that I specialized in ___Digital Marketing___ at _The Open University in Milton Keynes_, England.
-
-I consider myself a person with great attention to detail, motivated and self-critical. In constant training, team worker and eager to continue enjoying what I do
-
+_I was born with a lot of potential, now I use it to my advantage._
 
 <div align="center">
     <a href="https://github.com/andriksantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andriksantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andriksantos&show_icons=true&theme=dracula&include_all_cits=true&count_privatomme=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriksantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
