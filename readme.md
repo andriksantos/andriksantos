@@ -1,6 +1,6 @@
 <div align="center">
 	<img src="assets/img/logo.png" width="300px" alt="Andrik Santos">
-    <p>Hello, I'm <a href="[andriksantos.github.io](https://andriksantos.github.io/)">Andrik Santos</a> I'm 26 years old.</p>
+    <p>Hello, I'm <a href="[andriksantos.github.io](https://andriksantos.github.io/)">Andrik Santos</a></p> 
 
 </div>
 
