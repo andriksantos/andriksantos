@@ -1,12 +1,23 @@
 <div align="center">
 	<img src="assets/img/logo.png" width="300px" alt="Andrik Santos">
-    <p>Hello, I'm <a href="[andriksantos.github.io](https://andriksantos.github.io/)">Andrik Santos</a></p> 
+    <p>Hello, My name is <a href="[andriksantos.github.io](https://andriksantos.github.io/)">Andrik Santos</a></p> 
+    <p>Data Scientist, Engineer Software, Master in Marketing and Business Management, Graphic Designer</p>
 
 </div>
 
-I'm a computer engineer with more than five years of experience in the software industry. I am also an entrepreneur with experience in marketing, business development, merchandising, project management and startups.
+Throughout my career, I have acquired a wide range of skills spanning various areas, including data science, business management, IT management, digital marketing, and project management.
 
-_I was born with a lot of potential, now I use it to my advantage._
+In the field of data science, I have honed my skills in areas such as data analysis, machine learning, and data visualization. My experience has allowed me to tackle complex projects and make data-driven decisions that have led to significant results.
+
+In business management, I have a proven track record of driving growth, improving efficiencies and leading teams. I have experience in the development and execution of strategic plans, as well as in the effective management of budgets and resources.
+
+When it comes to IT management, I have a deep understanding of technology and how to effectively manage IT projects. I have a knack for troubleshooting and resolving technical issues, as well as implementing and maintaining systems and infrastructure.
+
+In social media marketing, I have a creative eye and a strategic mind. I have a deep understanding of how to effectively leverage social media platforms to drive engagement, build brand awareness, and generate leads.
+
+Finally, as an experienced project manager, I have a wealth of experience leading and delivering projects on time, on budget, and to a high standard. I have a honed ability to manage risk, communicate effectively with stakeholders, and motivate teams.
+
+Overall, my experience and skills have allowed me to make significant contributions in a variety of roles and industries. I am confident that I have a lot to offer and am I looking forward to continuing to grow and develop my skills.advantage._
 
 <div align="center">
     <a href="https://github.com/andriksantos">
