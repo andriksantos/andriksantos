@@ -17,7 +17,7 @@ In social media marketing, I have a creative eye and a strategic mind. I have a 
 
 Finally, as an experienced project manager, I have a wealth of experience leading and delivering projects on time, on budget, and to a high standard. I have a honed ability to manage risk, communicate effectively with stakeholders, and motivate teams.
 
-Overall, my experience and skills have allowed me to make significant contributions in a variety of roles and industries. I am confident that I have a lot to offer and am I looking forward to continuing to grow and develop my skills.advantage._
+Overall, my experience and skills have allowed me to make significant contributions in a variety of roles and industries. I am confident that I have a lot to offer and am I looking forward to continuing to grow and develop my skills.advantage.
 
 <div align="center">
     <a href="https://github.com/andriksantos">
@@ -31,14 +31,6 @@ Overall, my experience and skills have allowed me to make significant contributi
 
 _Follow me on:_
 <p>
-
-<a href="https://www.facebook.com/andrik.rsm">
-    <img src="https://img.shields.io/badge/Facebook-andrik.rsm-blue" alt="AndrikSantos">
-</a>
-
-<a href="https://www.instagram.com/andriksantos1">
-    <img src="https://img.shields.io/badge/Instagram-andriksantos1-ff69b4" alt="AndrikSantos">
-</a>
 
 <a href="https://www.linkedin.com/in/andriksantos">
     <img src="https://img.shields.io/badge/Linkedin-andriksantos-blue" alt="AndrikSantos">
