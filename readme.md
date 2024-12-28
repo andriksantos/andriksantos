@@ -4,9 +4,9 @@
 
 </div>
 
-    I'm passionate about marketing and commercial management with over 5 years of experience driving strategies that deliver real results. I hold a Master's degree in Marketing and Commercial Management from EUDE Madrid, which has provided me with a strong foundation to lead teams, optimize processes, and achieve ambitious goals.
+I'm passionate about marketing and commercial management with over 5 years of experience driving strategies that deliver real results. I hold a Master's degree in Marketing and Commercial Management from EUDE Madrid, which has provided me with a strong foundation to lead teams, optimize processes, and achieve ambitious goals.
 
-    I’m always seeking new challenges, continuously learning, and applying my experience to solve problems and create value. If you share my passion for marketing, data, or simply want to connect, I’d be delighted to chat with you! 🚀
+I’m always seeking new challenges, continuously learning, and applying my experience to solve problems and create value. If you share my passion for marketing, data, or simply want to connect, I’d be delighted to chat with you! 🚀
 
 <div align="center">
     <a href="https://github.com/andriksantos">
