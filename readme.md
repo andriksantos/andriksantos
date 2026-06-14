@@ -1,5 +1,7 @@
 <div align="center">
 
+<div align="center"> <img src="assets/img/logo.png" width="300px" alt="Andrik Santos"> </div>
+
 # Andrik Santos
 
 ### Marketing Strategist | Trade Marketing Manager | Business Intelligence & Data Analytics
