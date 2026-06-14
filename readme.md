@@ -4,7 +4,8 @@
 
 ### Marketing Strategist | Trade Marketing Manager | Business Intelligence & Data Analytics
 
-[Website](https://andriksantos.com) • [LinkedIn](https://www.linkedin.com/in/andriksantos) • [WhatsApp](https://wa.me/50496679577) • [Email](mailto:andricksantos1@gmail.com)
+
+_Follow me on:_ <p> <a href="https://www.linkedin.com/in/andriksantos"> <img src="https://img.shields.io/badge/Linkedin-andriksantos-blue" alt="AndrikSantos"> </a> <a href="https://www.instagram.com/andriksantos1"> <img src="https://img.shields.io/badge/instagram-andriksantos1-red" alt="AndrikSantos"> </a> <a href="https://www.facebook.com/andrik.rsm"> <img src="https://img.shields.io/badge/facebook-andrik.rsm-blue" alt="AndrikSantos"> </a> <a href="https://andriksantos.github.io"> <img src="https://img.shields.io/badge/WebSite-andriksantos.com-lightgray" alt="AndrikSantos"> </a> <img src="https://img.shields.io/github/followers/andriksantos?style=social"> </p> <a href="https://wa.me/96679577"> <img src="https://img.shields.io/badge/Whatsapp-96679577-green" alt="AndrikSantos"> </a>
 
 </div>
 
@@ -89,19 +90,3 @@ Project Leadership
 > "The best business decisions happen when strategy, technology, and data work together."
 
 ---
-
-## Connect With Me
-
-<div align="center">
-
-<p> <a href="https://www.linkedin.com/in/andriksantos"> <img src="https://img.shields.io/badge/Linkedin-andriksantos-blue" alt="AndrikSantos"> </a> 
-
-<a href="https://www.instagram.com/andriksantos1"> <img src="https://img.shields.io/badge/instagram-andriksantos1-red" alt="AndrikSantos"> </a> 
-
-<a href="https://www.facebook.com/andrik.rsm"> <img src="https://img.shields.io/badge/facebook-andrik.rsm-blue" alt="AndrikSantos"> </a>
-
-<a href="https://andriksantos.github.io"> <img src="https://img.shields.io/badge/WebSite-andriksantos.github.io-lightgray" alt="AndrikSantos"> </a> <img src="https://img.shields.io/github/followers/andriksantos?style=social"> 
-
-</p>
-
-</div>
